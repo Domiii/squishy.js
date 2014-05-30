@@ -1,4 +1,4 @@
 squishy.js
 ==========
 
-Random collection of Javascript utilities.
+Small (more or less random) collection of Javascript utilities.
